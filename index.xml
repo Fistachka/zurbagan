@@ -2,16 +2,15 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zurbagan</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="Fistachka" repo="zurbagan"/>
   <readme>
-    <ru>c8ac848a04c79d5a8de634e3121c31b8ec344e0458712194dc0b97fca0d6743c</ru>
-    <en>402d12d6e4ec8772e27f5812b929cdf96798c257269a08dbc8632f598e02848e</en>
+    <ru>c106af0b891a69876ae1e804eae9a9d19b6e1779ddd04555510d61fecc4d0f9d</ru>
+    <en>81eb175b7af24329ac8e7b5ea6017598a32a5b49d0c85c485cedf9eafc425a05</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
     <scale>minor</scale>
-    <cadenceVariant>harmonic</cadenceVariant>
     <bpm>162</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
