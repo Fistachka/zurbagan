@@ -1,7 +1,7 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-"Звенит январская вьюга" ("С любовью встретиться") 1972г. 4 часть
-![88](https://github.com/user-attachments/assets/42312859-f7c5-4ec6-b3f7-d0652df8782b)
+"Зурбаган" из к/ф "Выше радуги" 1986г. 1 часть
+![2](https://github.com/user-attachments/assets/fc95af20-54dd-4187-806c-2971012c19cc)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/px1Y3Ix8eYc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cerpvMxuH7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -22,7 +22,7 @@ stolbitsa.com/fistachka/vyuga3<br><br>
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 “The January Blizzard Sings” “Meeting Love”) 1972 4 st verse
-![88](https://github.com/user-attachments/assets/42312859-f7c5-4ec6-b3f7-d0652df8782b)
+![2](https://github.com/user-attachments/assets/fc95af20-54dd-4187-806c-2971012c19cc)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/Ho0_vV49TXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2YMQ5F6rmz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -39,11 +39,4 @@ A potom ne najdut nikogda
 Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/e69f8e4e-84aa-4ed7-b997-1df18a645201 =200x200)
 stolbitsa.com/fistachka/vyuga3<br><br>
-
-
-
-![2](https://github.com/user-attachments/assets/fc95af20-54dd-4187-806c-2971012c19cc)
-![1](https://github.com/user-attachments/assets/7ef9f5f6-a12e-4102-93c7-ee64b2047c7d)
-
-
 
